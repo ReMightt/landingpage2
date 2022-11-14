@@ -1,0 +1,180 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+body {
+  font-family: 'League Spartan', sans-serif;
+}
+
+header {
+  padding-left: 135px;
+  padding-right: 240px;
+  padding-top: 104px;
+  padding-bottom: 168px;
+  display: flex;
+  background-color: #F8F8F8;
+}
+
+.model-title {
+  font-size: 24px;
+  color: #161515;
+  line-height: 45px;
+  margin-bottom: 53px;
+}
+
+.header-title {
+  font-size: 250px;
+  line-height: 230px;
+  color: #272727;
+  font-weight: 300;
+  margin-bottom: 43px;
+}
+
+.header-description {
+  font-size: 32px;
+  width: 600px;
+  color: #161515;
+  line-height: 50px;
+  margin-bottom: 61px;
+}
+
+.img-title {
+  margin-top: -115px;
+  padding-left: 150px;
+}
+
+.header-button {
+  background-color: #161515;
+  width: 278px;
+  height: 82px;
+  display: block;
+  text-align: center;
+  line-height: 82px;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 32px;
+}
+
+.button {
+  display: flex;
+}
+
+.button-price {
+  width: 143px;
+  background-color: #ffffff;
+  font-size: 32px;
+  line-height: 82px;
+  text-align: center;
+}
+
+section {
+  text-align: center;
+}
+
+.section-container-text {
+  line-height: 45px;
+  color: #000000;
+  font-size: 24px;
+}
+
+.section-container-title {
+  line-height: 81px;
+  font-size: 72px;
+}
+
+.section-container {
+  padding-top: 43px;
+  padding-bottom: 84px;
+}
+
+.image-model {
+  background-color: #F8F8F8;
+  width: 417px;
+  height: 630px;
+  margin: 0 auto;
+}
+
+.img-son22 {
+  padding-top: 110px;
+}
+
+.model-section-title {
+  padding-top: 67px;
+  padding-bottom: 17px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 30px;
+}
+
+.model-section-description {
+  width: 550px;
+  height: 194px;
+  color: #161515;
+  margin: 0 auto;
+  font-size: 32px;
+  line-height: 50px;
+  font-weight: 300;
+}
+
+.img-sw12 {
+  padding-top: 110px;
+}
+
+.model-sw12 {
+  padding-top: 85px;
+}
+
+footer {
+  text-align: center;
+}
+
+.footer-container {
+  padding-top: 59px;
+  font-weight: 400;
+  font-size: 32px;
+  color: #161515;
+  line-height: 60px;
+  padding-bottom: 142px;
+}
+
+.footer-description {
+  width: 515px;
+  height: 231px;
+  color: #161515;
+  margin: 0 auto;
+  font-size: 24px;
+  line-height: 40px;
+  font-weight: 300;
+  padding-top: 58px;
+}
+
+.more {
+  color: #BB8B5D;
+  font-weight: 500;
+  text-decoration-thickness: 1px;
+}
+
+span {
+  border-bottom: 1px solid #000000;
+  padding-bottom: 9px;
+}
